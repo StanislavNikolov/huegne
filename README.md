@@ -1,4 +1,4 @@
-**Heavily** inspired by Dave Ackley's project by the same name: (huegene)[https://www.youtube.com/watch?v=jQaXtbrVNaU].
+**Heavily** inspired by Dave Ackley's project by the same name: [huegene](https://www.youtube.com/watch?v=jQaXtbrVNaU).
 
 Build and run with
 ```
